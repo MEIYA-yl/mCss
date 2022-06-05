@@ -1,5 +1,5 @@
-import { createApp } from "vue";
-import App from "./App.vue";
-import "vite-plugin-windicss";
+import { createApp } from 'vue';
+import App from './App.vue';
+// import 'virtual:windicss.css';
 
-createApp(App).mount("#app");
+createApp(App).mount('#app');
