@@ -1,5 +1,9 @@
 <script lang="ts" setup></script>
 <template>
-  <div></div>
+  <div class="text">mCss</div>
 </template>
-<style lang="scss"></style>
+<style lang="scss">
+.text {
+  color: red;
+}
+</style>
